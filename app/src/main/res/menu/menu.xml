@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Item"
+        android:id="@+id/draw"
+        android:icon="@drawable/ic_shape"
+        android:visible="true"
+        app:showAsAction="always"
+        />
+    <item android:title="Item"
+        android:id="@+id/draw_line"
+        android:icon="@drawable/ic_arrow"
+        android:visible="true"
+        app:showAsAction="always"
+        />
+    <item android:title="Item"
+        android:id="@+id/draw_rec"
+        android:icon="@drawable/ic_rectangle_465"
+        android:visible="true"
+        app:showAsAction="always"
+        />
+
+    <item android:title="Item"
+        android:id="@+id/draw_ellips"
+        android:icon="@drawable/ic_ellipse_139"
+        android:visible="true"
+        app:showAsAction="always"
+        />
+
+    <item android:title="Item"
+        android:id="@+id/color_pallet"
+        android:icon="@drawable/ic_carbon_color_palette"
+        android:visible="true"
+        app:showAsAction="always">
+    </item>
+
+
+
+
+
+
+</menu>

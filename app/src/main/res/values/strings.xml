@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PaintApp</string>
+    <string name="draw">draw</string>
+</resources>
